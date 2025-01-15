@@ -1,3 +1,20 @@
+---
+title: ArXiv Citation Generator
+emoji: 📚
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: "5.12.0"
+app_file: app.py
+pinned: false
+tags:
+  - arxiv
+  - citation
+  - academic
+  - research
+---
+在线体验地址：https://zjrwtxtechstudio-arxiv-citation-gentools.hf.space
+
 # arXiv论文引用生成器
 
 一个简单易用的工具，用于批量生成arXiv论文的引用格式。支持多种引用样式，包括APA、MLA、Chicago和IEEE格式。
